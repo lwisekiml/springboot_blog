@@ -9,6 +9,19 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 public class HttpControllerTest {
 
+    private static final String TAG="HttpControllerTest";
+
+    @GetMapping("/http/lombok")
+    public String lombokTest() {
+//        Member m = new Member(1, "ssar", "1234", "email");
+        Member m = Member.builder().password("1234").email("ssar@nate.com").build(); // 없는 값은 null로 세팅
+        System.out.println(TAG + "getter : " + m.getUsername());
+//        m.setId(5000);
+        m.setUsername("cos");
+        System.out.println(TAG + "setter : " + m.getUsername() + ", " + m.getId());
+        return "lombok test 완료";
+    }
+
     // 인터넷 브라우저 요청은 무조건 get요청밖에 할 수 없다.
     // 첫 번째 방법
     // http://localhost:8080/http/get (select)

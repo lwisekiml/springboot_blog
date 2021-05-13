@@ -56,4 +56,12 @@ https://www.youtube.com/watch?v=BNiDNAWZn-E&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6I
 
 https://www.youtube.com/watch?v=Fd5Rhz0j8QQ&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=14
 
+15. 스프링부트 강좌 14강(블로그 프로젝트) - http요청 실습2
+
+https://www.youtube.com/watch?v=jtur8oAAXYg&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=15
+
+16. 스프링부트 강좌 16강(블로그 프로젝트) - lombok세팅 및 사용해보기
+
+https://www.youtube.com/watch?v=U3Bq4C-NEDU&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=16
+
 
