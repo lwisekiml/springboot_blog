@@ -84,4 +84,8 @@ https://www.youtube.com/watch?v=MJSMvETSE7E&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6I
 
 https://www.youtube.com/watch?v=u-E9TH4ZaEA&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=21
 
+22. 스프링부트 강좌 22강(블로그 프로젝트) - 연관관계의 주인
+
+https://www.youtube.com/watch?v=DtMmXQl4_hw&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=22
+
 
