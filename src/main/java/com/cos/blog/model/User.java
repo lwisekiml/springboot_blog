@@ -29,3 +29,14 @@ public class User {
     @CreationTimestamp // 시간이 자동 입력
     private Timestamp createDate;
 }
+/*
+create table User (
+    id integer not null auto_increment,
+    createDate datetime(6),
+    email varchar(50) not null,
+    password varchar(100) not null,
+    role varchar(255) default 'user',
+    username varchar(20) not null,
+    primary key (id)
+) engine=InnoDB
+*/

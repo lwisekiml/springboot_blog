@@ -72,4 +72,12 @@ https://www.youtube.com/watch?v=U9OnYKiSf4g&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6I
 
 https://www.youtube.com/watch?v=6ynr-XAI-rk&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=18
 
+19. 스프링부트 강좌 19강(블로그 프로젝트) - 데이터베이스 한글인코딩 문제해결
+
+https://www.youtube.com/watch?v=s1AxIA033jQ&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=19
+
+20. 스프링부트 강좌 20강(블로그 프로젝트) - Board테이블 생성
+
+https://www.youtube.com/watch?v=MJSMvETSE7E&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=20
+
 
