@@ -64,4 +64,8 @@ https://www.youtube.com/watch?v=jtur8oAAXYg&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6I
 
 https://www.youtube.com/watch?v=U3Bq4C-NEDU&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=16
 
+17. 스프링부트 강좌 17강(블로그 프로젝트) - yml설정하기
+
+https://www.youtube.com/watch?v=U9OnYKiSf4g&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=18
+
 
