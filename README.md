@@ -68,4 +68,8 @@ https://www.youtube.com/watch?v=U3Bq4C-NEDU&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6I
 
 https://www.youtube.com/watch?v=U9OnYKiSf4g&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=18
 
+18. 스프링부트 강좌 18강(블로그 프로젝트) - User테이블 생성
+
+https://www.youtube.com/watch?v=6ynr-XAI-rk&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=18
+
 
