@@ -80,4 +80,8 @@ https://www.youtube.com/watch?v=s1AxIA033jQ&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6I
 
 https://www.youtube.com/watch?v=MJSMvETSE7E&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=20
 
+21. 스프링부트 강좌 21강(블로그 프로젝트) - Reply 테이블 생성
+
+https://www.youtube.com/watch?v=u-E9TH4ZaEA&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=21
+
 
