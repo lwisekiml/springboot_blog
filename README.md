@@ -88,4 +88,12 @@ https://www.youtube.com/watch?v=u-E9TH4ZaEA&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6I
 
 https://www.youtube.com/watch?v=DtMmXQl4_hw&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=22
 
+23. 스프링부트 강좌 23강(블로그 프로젝트) - JSON 사용법
+
+https://www.youtube.com/watch?v=olaeVwjx3J8&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=23
+
+24. 스프링부트 강좌 24강(블로그 프로젝트) - 회원가입 위한 insert 테스트
+
+https://www.youtube.com/watch?v=w0hF91Xs--4&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=24
+
 
