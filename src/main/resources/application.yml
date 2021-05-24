@@ -30,7 +30,8 @@ spring:
   jpa:
     open-in-view: true
     hibernate:
-      ddl-auto: create
+#      ddl-auto: create
+      ddl-auto: update
       naming:
         # Entity 만들때 변수명 그대로 DB 필드를 만든다.
         # SpringPhysicalNamingStrategy는 카멜 표기를 언더바로(_) 바꾸어 DB 필드를 만든다.(myEmail -> my_email)

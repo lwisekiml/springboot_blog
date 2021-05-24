@@ -100,4 +100,8 @@ https://www.youtube.com/watch?v=w0hF91Xs--4&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6I
 
 https://www.youtube.com/watch?v=FhrkWA9hioU&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=25
 
+26. 스프링부트 강좌 26강(블로그 프로젝트) - id로 select 테스트
+
+https://www.youtube.com/watch?v=z_yxfFUX1xI&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=26
+
 
