@@ -1,5 +1,6 @@
 package com.cos.blog.test;
 
+import com.cos.blog.model.RoleType;
 import com.cos.blog.model.User;
 import com.cos.blog.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,6 +26,7 @@ public class DummyControllerTest {
         System.out.println("role:" + user.getRole());
         System.out.println("createDate:" + user.getCreateDate());
 
+        user.setRole(RoleType.USER); // username, password, email 작성하여 전송시 role에 USER값 세팅
         userRepository.save(user);
         /*
         insert 할때 role 값이 있어서 NULL이 들어간다.

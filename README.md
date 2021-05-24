@@ -96,4 +96,8 @@ https://www.youtube.com/watch?v=olaeVwjx3J8&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6I
 
 https://www.youtube.com/watch?v=w0hF91Xs--4&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=24
 
+25. 스프링부트 강좌 25강(블로그 프로젝트) - 회원가입을 위한 enum사용법
+
+https://www.youtube.com/watch?v=FhrkWA9hioU&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=25
+
 
